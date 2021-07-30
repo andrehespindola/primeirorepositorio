@@ -1,1 +1,1 @@
-Meu primeiro projeto no GIT. 29/07/2021. 
+Meu primeiro projeto no GIT. 29/07/2021.
